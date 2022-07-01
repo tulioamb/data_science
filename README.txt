@@ -1,1 +1,1 @@
-
+This will be my first Portfolio Project regarding Data Science aplying Python and some of the most known of its libraries, pandas and NumPy. Have fun assessing it and please let me know if you guys have any suggestions. Best regards!
