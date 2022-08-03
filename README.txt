@@ -1,1 +1,1 @@
-This will be my first Portfolio Project regarding Data Science aplying Python and some of the most known of its libraries, pandas and NumPy. Have fun assessing it and please let me know if you guys have any suggestions. Best regards!
+These are my first Portfolio Projects regarding Data Science applying Python and some of the most known of its libraries: Pandas, NumPy, Matplotlib and SciPy. Have fun assessing it and please let me know if you guys have any suggestions. Best regards!
